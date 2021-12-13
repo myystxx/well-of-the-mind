@@ -13,15 +13,17 @@ To install the Dart packages used, run flutter pub get.
 Inlcude a client ID and SECRET for Spotify to use Meditate microservice.
 Visit this link https://developer.spotify.com/dashboard/login for more info.
 
+The user content is stored in owner Firebase account. If you would wish to connect your own, you may need to adjust the database architecture to be compatible to code. 
+
 # A demo
-Dashboard
+### Dashboard
 
 https://user-images.githubusercontent.com/46553588/145759947-a07a61b6-0821-45a0-95a7-5dc8446a84b7.mp4
 
 
 A randomly generated inspirational quote and user statistic would be showcased here. 
 
-Articles 
+### Articles 
 
 
 https://user-images.githubusercontent.com/46553588/145760490-b7125136-baa1-4bb7-bcfe-6c92ee1ef7f3.mp4
@@ -30,7 +32,7 @@ https://user-images.githubusercontent.com/46553588/145760490-b7125136-baa1-4bb7-
 Over here, a myriad of mental wellness resources can be found. You can save an article for future read. 
 Fret not that the content would become outdated, because our trusted feed providers do update regularly :) 
 
-Meditate and Journaling
+### Meditate and Journaling
 
 
 https://user-images.githubusercontent.com/46553588/145760616-53c25673-d099-46e9-9c8e-82113141f14c.mp4
