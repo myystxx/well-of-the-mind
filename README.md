@@ -2,14 +2,18 @@
 A Final Year Project archive
 
 This project is built with Flutter and Dart.
+
 This is a mental wellness mobile application with 3 main microservice: Article, Meditate, and Journaling.
+
 The main aim of this app is to help people to gain knowledge in mental health and make informed approach to their daily wellness needs.
 
 Disclaimer: The feeds generated in this mobile application made use of RSS. All the articles content belongs to the respective feed providers and the app does not own any of them. If there are any infringement of rights, please contact this repository owner. 
 
 # How to install
 You will need Flutter SDK, Android SDK, and Dart.
+
 To install the Dart packages used, run flutter pub get.
+
 Inlcude a client ID and SECRET for Spotify to use Meditate microservice.
 Visit this link https://developer.spotify.com/dashboard/login for more info.
 
