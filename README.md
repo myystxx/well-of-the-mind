@@ -7,7 +7,7 @@ This is a mental wellness mobile application with 3 main microservice: Article, 
 
 The main aim of this app is to help people to gain knowledge in mental health and make informed approach to their daily wellness needs.
 
-The pitch: https://www.canva.com/design/DAExqsT1RYM/39Hj68XC7qWoZ57d7SSKNg/view?utm_content=DAExqsT1RYM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+The pitch: https://www.canva.com/design/DAExqsT1RYM/39Hj68XC7qWoZ57d7SSKNg/watch?utm_content=DAExqsT1RYM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 Disclaimer: The feeds generated in this mobile application made use of RSS. All the articles content belongs to the respective feed providers and the app does not own any of them. If there are any infringement of rights, please contact this repository owner. 
 
