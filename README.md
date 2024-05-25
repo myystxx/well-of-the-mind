@@ -3,7 +3,7 @@ A Final Year Project archive
 
 This project is built with Flutter and Dart.
 
-This is a mental wellness mobile application with 3 main microservice: Article, Meditate, and Journaling.
+This is a mental wellness mobile application with 3 main microservices: Article, Meditate, and Journaling.
 
 The main aim of this app is to help people to gain knowledge in mental health and make informed approach to their daily wellness needs.
 
